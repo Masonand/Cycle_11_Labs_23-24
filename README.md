@@ -1,4 +1,4 @@
-# Cycle-10-Lab-1-and-2<h1 align="center">
+# Cycle 11 Labs<h1 align="center">
     Fairfield College Preparatory School<br>
     Computer Programming - Mrs.K <br>
     Cycle 10 Labs
